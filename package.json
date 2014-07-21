@@ -1,0 +1,7 @@
+"name": "node2gs",
+"description": "Read and write google spreadsheet",
+"version": "0.0.1",
+"author": "Håvard Solvik Bertelsen",
+"dependencies" : {
+    "express": "~4.6.1"
+}
